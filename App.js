@@ -20,4 +20,14 @@ function App() {
   );
 }
 
+export default () => {
+  return (
+    <NavigationContainer>
+     
+        <App />
+      
+    </NavigationContainer>
+  )
+}
+
 
