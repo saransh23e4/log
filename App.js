@@ -22,6 +22,7 @@ function App() {
 
 export default () => {
   return (
+    // this is the navigation container
     <NavigationContainer>
      
         <App />
